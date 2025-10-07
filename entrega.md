@@ -1,4 +1,4 @@
-```caca```# Pràctica Final
+# Pràctica Final
 
 Anem a codificar la informació en els diferents formats que hem vist.
 
