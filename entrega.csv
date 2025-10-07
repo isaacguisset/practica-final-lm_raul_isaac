@@ -1,0 +1,14 @@
+
+Nom_Plat,Preu,Nom_Ingredient,Quantitat,Unitats,Calories,Allergens
+Paella,12.50,Arròs,200.0,grams,180,Pot contenir traces de crustacis; Conté safrà
+Paella,12.50,Camaró,100.0,grams,90,Pot contenir traces de crustacis; Conté safrà
+Paella,12.50,Pollastre,150.0,grams,210,Pot contenir traces de crustacis; Conté safrà
+Paella,12.50,Safrà,0.5,grams,2,Pot contenir traces de crustacis; Conté safrà
+Paella,12.50,Aigua,500.0,ml,0,Pot contenir traces de crustacis; Conté safrà
+
+Nom_Plat,Preu,Nom_Ingredient,Quantitat,Unitats,Calories,Allergens
+Amanida de Tonyina,8.00,Enciam,80.0,grams,14,conté ou
+Amanida de Tonyina,8.00,Tomàquet,100.0,grams,18,conté  ou
+Amanida de Tonyina,8.00,Tonyina,120.0,grams,132,conté  ou
+Amanida de Tonyina,8.00,conté conté ou dur,50.0,grams,77,conté  ou
+Amanida de Tonyina,8.00,Oliva,10.0,unitats,40,conté  ou
