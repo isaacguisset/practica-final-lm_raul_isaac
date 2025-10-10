@@ -25,7 +25,7 @@ plats:
     allergogens:
       - Pot contenir traces de crustacis
       - Conté safrà
-
+      
   - nom: Amanida de Tonyina
     preu: 8.00
     ingredients:
